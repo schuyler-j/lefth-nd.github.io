@@ -1,5 +1,6 @@
 ---
 layout:default
+title:"Book"
 permalink: /mybook
 ---
 
@@ -20,24 +21,31 @@ J. B. Schuyler
 **Chapter 1**
 
 **Formidable Philosophical Formulations**
-```
-*Eureka!*\
-\
-A Found Big Confusion...
+```java
+public class Death{
+	public static String Eureka!(){
 
-*Lost!*
+		A Found Big Confusion...
+	}
+	public void Lost!(){
 
-Under the blanket stars of the Milky Way...
+		Under the blanket stars of the Milky Way...
+	}
+	public int Born!(){
 
-*Born!*
+		Once upon a great while, a sky so entirely Blue...
+	}
 
-Once upon a great while, a sky so entirely Blue...
+	public boolean Engineered!(){
 
-*Engineered!*
+		A glow of passion lost its spark...
+	}
 
-A glow of passion lost its spark...
+	public int Start!(){
 
-*Reborn!*
+		self.Reborn!
+	}
+}
 ```
 
 And this is the perfect place for a beginning, wouldn't you say? In
