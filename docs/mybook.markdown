@@ -1,26 +1,24 @@
 ---
 layout:default
-title:"Book"
+title: "Book"
 permalink: /mybook
 ---
 
 <p align="justify">
 
-<strong>Does God Cook Fish?</strong>
+<strong><a href="#chapter1">1. Does God Cook Fish?</a></strong>
 <br>
-<strong>Death, Dreams and Feedback Loops</strong>
+<strong><a href="#chapter2">2. Death, Dreams and Feedback Loops</a></strong>
 <br>
-<strong>Shepherd's Pie Give 'Em Gab</strong>
+<strong><a href="#chapter3">3. Shepherd's Pie Give 'Em Gab</a></strong>
 <br>
-<strong>The Way Back When Before the Big Air</strong>
+<strong><a href="#chapter4">4. The Way Back When Before the Big Air</a></strong>
 
 </p>
 
 J. B. Schuyler
 
-**Chapter 1**
-
-**Formidable Philosophical Formulations**
+*Formidable Philosophical Formulations*
 ```java
 public class Death{
 	public static String Eureka!(){
@@ -47,6 +45,7 @@ public class Death{
 	}
 }
 ```
+<strong id="chapter1">Chapter 1</strong>
 
 And this is the perfect place for a beginning, wouldn't you say? In
 blinding light. We begin confused, we exist confused and we die
@@ -1725,7 +1724,7 @@ CAN]{.underline}](https://yawhatwentwhichway.com/2020/03/01/boy-can/)
 A
 COMMENT]{.underline}](https://yawhatwentwhichway.com/2020/03/01/boy-can/#respond) [[EDIT]{.underline}](https://wordpress.com/post/yawhatwentwhichway.com/217)
 
-ONE NIGHT WITH THE MOUTH
+<strong id="chapter2">ONE NIGHT WITH THE MOUTH</strong>
 
 There was this strange dream scratched into the walls.\
 \
@@ -3194,7 +3193,7 @@ shepherd this is the tragedy
 
 this is shepherd's pie, and everyone's a little crazy.
 
-**NOISE FROM A LARGE MEGAPHONE!**
+<strong id="chapter3">NOISE FROM A LARGE MEGAPHONE!</strong>
 
 'Citizens of the NVRM do not be alarmed by the installation of the
 Tenretni Region. The folk positioned there will be of no hassle to you
@@ -5072,8 +5071,8 @@ almost ready. To reveal all we've discovered. We just need one final
 favour from you. One last experiment to really send it home. Can you do
 that for us? Okay, let's begin.
 
-[**[CHAPTER
-ONE]{.underline}**](https://yawhatwentwhichway.com/2019/08/02/chapter-one/)
+<strong id="chapter4">[CHAPTER
+ONE]</strong>
 
 9 Months Later
 
