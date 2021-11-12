@@ -5,13 +5,13 @@ permalink: /mybook
 
 <p align="justify">
 
-**Does God Cook Fish?**
-
-**Death, Dreams and Feedback Loops**
-
-**Shepherd's Pie Give 'Em Gab**
-
-**The Way Back When Before the Big Air**
+<strong>Does God Cook Fish?</strong>
+<br>
+<strong>Death, Dreams and Feedback Loops</strong>
+<br>
+<strong>Shepherd's Pie Give 'Em Gab</strong>
+<br>
+<strong>The Way Back When Before the Big Air</strong>
 
 </p>
 
