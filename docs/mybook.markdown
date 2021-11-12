@@ -3,22 +3,24 @@ layout:default
 permalink: /mybook
 ---
 
+<p align="justify">
 
+**Does God Cook Fish?**
 
-Does God Cook Fish?
+**Death, Dreams and Feedback Loops**
 
-Death, Dreams and Feedback Loops
+**Shepherd's Pie Give 'Em Gab**
 
-Shepherd's Pie Give 'Em Gab
+**The Way Back When Before the Big Air**
 
-The Way Back When Before the Big Air
+</p>
 
 J. B. Schuyler
 
 **Chapter 1**
 
 **Formidable Philosophical Formulations**
-
+```
 *Eureka!*\
 \
 A Found Big Confusion...
@@ -36,6 +38,7 @@ Once upon a great while, a sky so entirely Blue...
 A glow of passion lost its spark...
 
 *Reborn!*
+```
 
 And this is the perfect place for a beginning, wouldn't you say? In
 blinding light. We begin confused, we exist confused and we die
