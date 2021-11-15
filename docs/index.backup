@@ -1,0 +1,36 @@
+---
+layout: default
+title: "Home"
+---
+
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <h3>Welcome</h3>
+
+  <p><strong>i'm lefth-nd</strong></p>
+  <body>
+    hello.
+    <br>
+    <a href="/mybook">click here.</a>
+    <br>
+    <a href="/about">about</a>
+    <br>
+  </body>
+  <p>posts.</p>
+  <body>
+    <a href="/2021/11/15/hello">2021-11-15</a>
+  </body>
+</div>
