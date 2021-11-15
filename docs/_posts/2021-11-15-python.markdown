@@ -1,1 +1,1 @@
-test. written from terminal.
+sent from terminal.
