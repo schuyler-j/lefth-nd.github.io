@@ -1,5 +1,9 @@
 ---
-layout: default
+author:
+- name: me
+  affiliation: Flinders University
+date: 27/07/2022 4:56:21 PM
+tags: [blog]
 ---
 
 day 3:
