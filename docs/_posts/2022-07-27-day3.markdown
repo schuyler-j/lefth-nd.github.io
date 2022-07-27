@@ -2,7 +2,7 @@
 author:
 - name: me
   affiliation: Flinders University
-date: 27/07/2022 4:56:21 PM
+date: 2022-07-27
 tags: [blog]
 ---
 
