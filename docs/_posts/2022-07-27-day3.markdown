@@ -1,5 +1,5 @@
 ---
-author:"me"
+layout: default
 ---
 
 day 3:
