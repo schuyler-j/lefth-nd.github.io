@@ -1,5 +1,9 @@
-*day 3:*
-setting up the blog again.
-WS: two basic sites built to refresh the memory.
-NN: working through the python problems.
-SS: trivia questions? why trivia?
+---
+author:"me"
+---
+
+day 3:
+setting up the blog again.  
+WS: two basic sites built to refresh the memory.  
+NN: working through the python problems.  
+SS: trivia questions? why trivia?  
