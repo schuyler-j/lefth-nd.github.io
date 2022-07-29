@@ -1,0 +1,12 @@
+---
+author:
+- name: me
+  affiliation: Flinders University
+date: 2022-07-29
+tags: [blog]
+---
+
+first PS ws done. ntb. team allocation next week.
+apache and php, how do they fit together? hmm.
+my talk is in week 5. right in the middle of the semester. perfect.
+
