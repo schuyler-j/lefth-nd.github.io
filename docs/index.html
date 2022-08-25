@@ -7,7 +7,7 @@ title: "Home"
   .container {
     margin: 10px auto;
     max-width: 600px;
-   justify-content: left;
+    text-align: center;
   }
   h1 {
     margin: 30px 0;
@@ -22,18 +22,25 @@ title: "Home"
    font-size: 20px; 
   }
   .menu{
+      margin-top: 30px;
     display: inline-block;
-    margin: auto;
     list-style-type: none;
   }
-  .menu text{
-    padding-right: 20px;
+  .menu a{
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 25px;
+      padding-left: 25px;
+      background-color: black;
+  }
+  .menu a:hover{
+      color: black;
+      background-color: aquamarine;
   }
   .post_container {
-      padding: 10px;
-      text-align: left;
-      border-radius: 6px;
       min-height: 100%;
+      justify-content: center;
+      padding-right: 35px;
   }
   body {
         background-color: #0e0e0e;
@@ -51,6 +58,9 @@ title: "Home"
       text-decoration: none;
       color:aquamarine;
   }
+  #home_img{
+      width: 10%;
+  }
 
 </style>
 
@@ -59,7 +69,7 @@ title: "Home"
   <h3>Hello</h3>
 
   <p><strong>welcome to lefth-nd, a blog of mine.</strong></p>
-    <p>read my book or paruse the blog posts.</p>
+    <p>read my book or peruse the blog posts.</p>
   <div class="menu">
     <a href="/mybook">book</a>
     <a href="/about">about</a>
@@ -69,6 +79,7 @@ title: "Home"
 <br>
 <br>
 <br>
+    <img id="home_img" src="home.png" />
   <p id="post_title"><b>posts</b></p>
     <div class="post_container">
         <ul style="list-style: none;">
