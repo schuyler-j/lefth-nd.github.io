@@ -1,0 +1,1 @@
+fixed the kernel issue but grub doesn't automatically load it :( manually loading the kernel is fun but gets old. i went with xfce and gdm for the desktop env but am regretting it. i should probably get back to studying.
