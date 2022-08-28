@@ -1,2 +1,11 @@
+<style type="text/css">
+  
+  body {
+  background-color: black;
+  }
+             
+             
+</style>
+
 did some thm stuff and fixed kali (kinda). new things tried: impacket, bloodhound, syncthing (didn't install yet), mural.co  
 WS project nearly finished. lots to do for PS with the report due next monday. SS and WS have quizes coming soon and NN is mostly just prac and lec catch up. 
