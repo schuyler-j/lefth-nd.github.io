@@ -1,4 +1,4 @@
 # lefth-nd.github.io
-ddfl web - just deployed a static page /Rohan
+ddfl web - lefth-nd.github.io/Rohan
 
 A place where things of a blog-type nature are put.
