@@ -33,8 +33,8 @@ title: "Home"
       padding-left: 25px;
   }
   .menu a:hover{
-      color: white;
-      text-decoration: underline white;
+      color: black;
+      text-decoration: underline;
   }
   .post_container {
       min-height: 100%;
@@ -45,13 +45,14 @@ title: "Home"
         background-color: #5590c9;
     }
   p{
-      color:aliceblue;
+      color: black;
   }
   h3{
       color: #5590c9;
   }
   a{
-      color:black;
+      color: white;
+background-color: #518ac1;
   }
   a:hover{
       text-decoration: none;
@@ -60,6 +61,8 @@ title: "Home"
   #home_img{
       width: 10%;
   }
+  #pc{
+	  color: black}
 
 </style>
 
@@ -70,8 +73,9 @@ title: "Home"
   <p><strong>welcome to lefth-nd, a blog of mine.</strong></p>
     <p>read my book or peruse the blog posts.</p>
 	<p>artificial intelligence | cyber security</p>
-	<a href="/2023/06/08/pgp">pgp public key</a>
+	
   <div class="menu">
+    <a href="/2023/06/08/pgp">pgp public key</a>  
     <a href="/mybook">book</a>
     <a href="/about">about</a>
     <a href="/blog">?</a>
@@ -79,7 +83,7 @@ title: "Home"
 <br>
 <br>
   <p id="post_title"><b>posts</b></p>
-    <div class="post_container">
+    <div id="pc" class="post_container">
         <ul style="list-style: none;">
         <li><a href="/2022/11/16/day105">2022-11-16 day105</a></li>
         <li><a href="/2022/09/18/day54">2022-09-18 day54</a></li>
