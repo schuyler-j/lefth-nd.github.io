@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-2nd year cs student.
+3rd year cs student.
