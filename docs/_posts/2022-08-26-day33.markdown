@@ -1,0 +1,1 @@
+the grind continues. I had an idea to create some sort of train behaviour simulation. simulating the actions and problem solving involved in train etiquette. sort of a birdseye view of blobs that move and shift out of seats, standing, etc. the train is a fascinating ecosystem. 

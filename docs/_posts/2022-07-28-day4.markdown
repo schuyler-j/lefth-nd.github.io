@@ -1,0 +1,12 @@
+---
+author:
+- name: me
+  affiliation: Flinders University
+date: 2022-07-28
+tags: [blog]
+---
+
+No lec today. First PS ws tomorrow :(  
+NN: completed the python prac  
+WS: connected to a sqlite db with php  
+SS: void.

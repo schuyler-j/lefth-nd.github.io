@@ -1,0 +1,1 @@
+monday: NN workshop, as expected - working through prac02, this is a tricky one. Stratified KFold cross-validation.

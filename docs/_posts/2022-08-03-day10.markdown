@@ -1,0 +1,3 @@
+wednesdays are for tutes and lab. specifically 1 tute and 1 lab. both for SS (the worst class yet). it's less of a 2nd year CS topic and more like a remedial high school IT revision, i.e. a complete bore.  
+in good news, I finally got the kfold cv working (i think). have to catch up on some lectures and finish of the lab from today.  
+no classes tomorrow. back to PS on friday. 

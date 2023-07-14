@@ -1,0 +1,1 @@
+wsl is working with apache/php/mysql. 
