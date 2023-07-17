@@ -1,3 +1,9 @@
+<style>
+.body {
+background-color: black;
+color: white;
+}
+</style>
 hi. long time no blog. semester finished. year complete. kinda.  
 ctf late october was fun. found more flags than i thought i would.  
 PS wasn't as bad as its reputation. SS was, hmm... a complete waste of time? eh. it was okay.  
